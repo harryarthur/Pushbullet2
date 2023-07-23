@@ -1,0 +1,2 @@
+#Empty requirements.txt file
+pushbullet.py==2.7.0
